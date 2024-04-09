@@ -1,0 +1,7 @@
+echo "# blogevaampuero" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M principal 
+git remoto agregar origen https://github.com/evaampuero/blogevaampuero.git
+ git push - u origen principal
